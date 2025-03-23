@@ -1,0 +1,19 @@
+     /home/aaron/source/code_reading/diffutils/lib/argmatch.c \
+     /home/aaron/source/code_reading/diffutils/lib/argmatch.h \
+     /home/aaron/source/code_reading/diffutils/lib/c-stack.c \
+     /home/aaron/source/code_reading/diffutils/lib/error.c \
+     /home/aaron/source/code_reading/diffutils/lib/file-type.c \
+     /home/aaron/source/code_reading/diffutils/lib/getopt.c \
+     /home/aaron/source/code_reading/diffutils/lib/quotearg.c \
+     /home/aaron/source/code_reading/diffutils/lib/regcomp.c \
+     /home/aaron/source/code_reading/diffutils/lib/xalloc-die.c \
+     /home/aaron/source/code_reading/diffutils/lib/xfreopen.c \
+     /home/aaron/source/code_reading/diffutils/lib/xstdopen.c \
+     /home/aaron/source/code_reading/diffutils/lib/version-etc.c \
+     /home/aaron/source/code_reading/diffutils/src/analyze.c \
+     /home/aaron/source/code_reading/diffutils/src/cmp.c \
+     /home/aaron/source/code_reading/diffutils/src/diff.c \
+     /home/aaron/source/code_reading/diffutils/src/diff3.c \
+     /home/aaron/source/code_reading/diffutils/src/dir.c \
+     /home/aaron/source/code_reading/diffutils/src/sdiff.c \
+     /home/aaron/source/code_reading/diffutils/src/util.c
